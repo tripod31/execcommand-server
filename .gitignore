@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+log/*.log
+log/*.txt
+doc/*.odt
+
+
+
